@@ -80,5 +80,7 @@ print(eth_test_key)
 #the derived wallets function, and then invoke the send transaction fucntion for each coin
 
 
+#Please see SS#3 issues for the screenshots of the ETH, BTC transactions
+
 
 
